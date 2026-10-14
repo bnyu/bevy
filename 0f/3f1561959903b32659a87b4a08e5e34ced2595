@@ -1,0 +1,19 @@
+crates/bevy_ecs/src/query/fetch.rs
+  s_212e0ad8045da0::t_5a4894764acd35 2029-2032,2042,2046,2319-2322,2331,2349
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0f3f1561959903b32659a87b4a08e5e34ced2595",
+  "prompts": {},
+  "sessions": {
+    "s_212e0ad8045da0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1396e-8f07-7880-b95f-9d99a167eb6b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xuyue <xuyue1106@outlook.com>"
+    }
+  }
+}

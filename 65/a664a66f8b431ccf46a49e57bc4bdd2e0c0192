@@ -1,0 +1,29 @@
+crates/bevy_ecs/src/query/state.rs
+  s_6b40da92ba241f::t_b3d9b1210a4321 1806,1865-1866
+  s_212e0ad8045da0::t_cf45f0da9d8524 1863-1864
+  s_212e0ad8045da0::t_c8221dd52ddd30 1805
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "65a664a66f8b431ccf46a49e57bc4bdd2e0c0192",
+  "prompts": {},
+  "sessions": {
+    "s_212e0ad8045da0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1396e-8f07-7880-b95f-9d99a167eb6b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xuyue <xuyue1106@outlook.com>"
+    },
+    "s_6b40da92ba241f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13936-32ee-7f30-b613-60462d7ae819",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "xuyue <xuyue1106@outlook.com>"
+    }
+  }
+}

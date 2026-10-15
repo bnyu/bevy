@@ -1,0 +1,14 @@
+crates/bevy_ecs/src/query/state.rs
+  h_bdfde99e1b6b9e 1870-1871
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "85b8972784a7843df5ae28786fb11b412d219b9b",
+  "prompts": {},
+  "humans": {
+    "h_bdfde99e1b6b9e": {
+      "author": "xuyue <xuyue1106@outlook.com>"
+    }
+  }
+}
